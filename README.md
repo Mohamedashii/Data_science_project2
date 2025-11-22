@@ -1,1 +1,5 @@
-# Data_science_project2
+Sales prediction means guessing how much of a product people will buy in the future. Companies need this to plan their production, manage stock, and decide how much money to spend on advertising. To do this well, they look at many factors such as how much they spend on ads, which audience they are targeting, and which platforms they use, like TV, social media, or online ads.
+
+A Data Scientist plays an important role in this process. They work with data from past sales and advertising campaigns. Using Python and machine learning techniques, they build models that learn patterns from this data. Once the model is trained, it can predict future sales based on different advertising strategies.
+
+These predictions help businesses make smart choices. For example, they can decide which platform gives the best return on investment or how much budget to allocate for a campaign. In this way, machine learning not only helps in understanding customer behavior but also supports better planning and higher profits. In this journey of sales prediction with Python, we combine data, logic, and technology to support business growth.
